@@ -1,0 +1,28 @@
+.form-row {
+margin-bottom: 25px;
+}
+
+.form-row span {
+    display: inline-block;
+    width: 100px;
+}
+
+.form-container {
+    text-align: center;
+}
+
+.movie-form {
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 25px;
+    box-shadow: 2px 2px purple
+}
+
+.movie-form input {
+    width: 200px;
+}
+
+.error-message {
+    display: block;
+    color: red;
+}
